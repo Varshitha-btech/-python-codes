@@ -1,0 +1,9 @@
+x=10
+y=20
+print("Addition=",x+y)
+print("Subtraction=",x-y)
+print("Multiplication=",x*y)
+print("division=",x/y)
+print("floor division=",x//y)
+print("Remainder=",x%y)
+print("Exponential=",x**y)
